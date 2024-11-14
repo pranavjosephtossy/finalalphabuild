@@ -5,7 +5,7 @@ very basic box collider for fireball, player and ghost,
 jump motion(no animation, no limit so can spam space key to fly)
 very minimal UI(debug log, it also doesn't work),
 basic environment(texture for ground and a back drop),
-
+objective(destroy ghost)
 work split
 Pranav
 	asset import
@@ -23,5 +23,5 @@ fireball( arcade like movement and textures),
 box collider(make it more fun for the user to play)
 smart UI,
 prop work and expanded/fitting environment/play area
-
+objective(destroy ghost, difficulty increases, powerup to summon skeletons to help)
 		
